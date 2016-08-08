@@ -1,0 +1,7 @@
+PCspec
+
+DELL Inspiron 13-7368
+
+OS:windows10
+memory:12.0GB
+sistem:64bit operating system
