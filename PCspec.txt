@@ -1,0 +1,7 @@
+PCスペック
+
+DELL Inspiron 13-7368
+
+OS:windows10
+メモリ:12.0GB
+システム:64bitオペレーティングシステム
